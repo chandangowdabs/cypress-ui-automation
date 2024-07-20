@@ -1,0 +1,23 @@
+{
+  "name": "cypress-ui-automation",
+  "version": "1.0.0",
+  "description": "Automation Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandangowdabs/cypress-ui-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandangowdabs/cypress-ui-automation/issues"
+  },
+  "homepage": "https://github.com/chandangowdabs/cypress-ui-automation#readme",
+  "dependencies": {
+    "cypress": "^13.9.0"
+  }
+}
